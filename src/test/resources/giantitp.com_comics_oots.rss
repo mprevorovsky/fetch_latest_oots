@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="CSS_formatting" type="text/css" href="http://www.interglacial.com/rss/rss.css"?>
+<rss version="2.0"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+><channel>
+
+<link>http://www.giantitp.com/Comics.html</link>
+<title>Order of the Stick</title>
+<description>Order of the Stick</description>
+<language>en</language>
+<skipHours><hour>0</hour><hour>1</hour><hour>2</hour><hour>3</hour><hour>4</hour><hour>5</hour><hour>6</hour><hour>7</hour><hour>8</hour><hour>9</hour><hour>10</hour><hour>11</hour><hour>13</hour><hour>14</hour><hour>15</hour><hour>16</hour><hour>17</hour><hour>18</hour><hour>19</hour><hour>20</hour><hour>21</hour><hour>22</hour><hour>23</hour></skipHours>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updatePeriod>daily</sy:updatePeriod>
+<sy:updateBase>1970-01-01T12:10+00:00</sy:updateBase>
+<ttl>1440</ttl>
+<docs>http://www.interglacial.com/rss/about.html</docs>
+
+<item>
+	<title>1286: Change of Scenery</title>
+	<link>http://www.giantitp.com/comics/oots1286.html</link>
+  	<description>http://www.giantitp.com/comics/oots1286.html</description>
+</item>
+
+<item>
+	<title>1285: Face to Face</title>
+	<link>http://www.giantitp.com/comics/oots1285.html</link>
+  	<description>http://www.giantitp.com/comics/oots1285.html</description>
+</item>
+
+<item>
+	<title>1284: Thus All the Dodging</title>
+	<link>http://www.giantitp.com/comics/oots1284.html</link>
+  	<description>http://www.giantitp.com/comics/oots1284.html</description>
+</item>
+
+<item>
+	<title>1283: Budding Emotions</title>
+	<link>http://www.giantitp.com/comics/oots1283.html</link>
+  	<description>http://www.giantitp.com/comics/oots1283.html</description>
+</item>
+
+<item>
+	<title>1282: In From the Cold</title>
+	<link>http://www.giantitp.com/comics/oots1282.html</link>
+  	<description>http://www.giantitp.com/comics/oots1282.html</description>
+</item>
+
+<item>
+	<title>1281: But It Gets Better Every Generation</title>
+	<link>http://www.giantitp.com/comics/oots1281.html</link>
+  	<description>http://www.giantitp.com/comics/oots1281.html</description>
+</item>
+
+<item>
+	<title>1280: Another Helping</title>
+	<link>http://www.giantitp.com/comics/oots1280.html</link>
+  	<description>http://www.giantitp.com/comics/oots1280.html</description>
+</item>
+
+<item>
+	<title>1279: Post Mortem</title>
+	<link>http://www.giantitp.com/comics/oots1279.html</link>
+  	<description>http://www.giantitp.com/comics/oots1279.html</description>
+</item>
+
+<item>
+	<title>1278: Taint of Magic</title>
+	<link>http://www.giantitp.com/comics/oots1278.html</link>
+  	<description>http://www.giantitp.com/comics/oots1278.html</description>
+</item>
+
+<item>
+	<title>1277: ETA</title>
+	<link>http://www.giantitp.com/comics/oots1277.html</link>
+  	<description>http://www.giantitp.com/comics/oots1277.html</description>
+</item>
+
+</channel></rss>
